@@ -1,0 +1,56 @@
+*{
+  
+    padding: 0;
+    margin: 0;
+    
+  }
+  
+  body{
+    
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    
+  }
+  
+  h1{
+    
+    margin:auto;
+    margin-top:10px;
+    font-family:sans-serif;
+  
+    
+  }
+  
+  .button{
+    margin-top:100px;
+    position:absolute;
+    top:50%;
+    transform:translateY(-50%);
+    text-decoration:none;
+    background: #000;
+    color:white;
+    padding: 20px 35px;
+    font-size:30px;
+    font-family:sans-serif;
+    
+    
+  }
+  
+  #SI{
+    left:20%;
+      transform:translateY(-50%)translatex(-20%);
+  
+  
+  }
+  
+  #NO{
+    left:80%;
+      transform:translateY(-50%)translatex(-80%);
+  
+  
+  }
+  
+  
+  
+  
